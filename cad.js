@@ -12,11 +12,8 @@ printerDiameterError = 0.3;
 // Uncomment different lines for prints
 function main () {
     // return printTop();
-    // return union(inners(), bottom());
+    // return printBottom();
     return complete();
-    // return bottom();
-    // return esp();
-    // return box();
 }
 
 function complete() {
@@ -28,6 +25,10 @@ function complete() {
 
 function printTop() {
     return top().rotateX(0);
+}
+
+function printBottom() {
+    return bottom().rotateX(180);
 }
 
 function top() {
