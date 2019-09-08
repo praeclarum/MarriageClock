@@ -14,7 +14,9 @@ It also always says "H+J" in memory of Heather and James' marriage.
 ## Bill of Materials
 
 1. $19.95 **[Adafruit HUZZAH32](https://www.adafruit.com/product/3405)** I love ESP32s and the Adafruit dev kit one of my favorites because it includes a USB connector and a battery management unit.
-2. $∞ 3D Printer to print the heart
+2. $5.495 **[OLED Screen](https://www.amazon.com/gp/product/B0761LV1SD)** Small OLED modules are pretty cheap these days!
+3. $9.95 **[Battery](https://www.adafruit.com/product/258)** I forgot which battery I used, but this one looks nice. The bigger the battery, the better the clock.
+4. $∞ 3D Printer to print the heart
 
 ## CAD
 
