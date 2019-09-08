@@ -7,7 +7,7 @@ Or maybe it's a day before the wedding, and you *still* haven't found a gift.
 
 Look no more, the Marriage Clock is here for you.
 
-This thing is a heart with a clock on it.
+This thing is a heart-shaped clock that will tell you how many years, months, and days you've been married.
 
 It also always says "H+J" in memory of Heather and James' marriage.
 
