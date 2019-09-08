@@ -1,6 +1,6 @@
 # Marriage Clock
 
-<img src="https://github.com/praeclarum/MarriageClock/raw/master/Images/clock.jpg" width="256" />
+<img src="https://github.com/praeclarum/MarriageClock/raw/master/Images/clock.jpg" width="256" /> <img src="https://github.com/praeclarum/MarriageClock/raw/master/Images/insides.jpg" width="256" />
 
 Ever wonder how long you've been married?
 Or maybe it's a day before the wedding, and you *still* haven't found a gift.
