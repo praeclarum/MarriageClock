@@ -25,7 +25,10 @@ It also always says "H+J" in honor of Heather and James' marriage.
 I designed the heart clock using [OpenJSCAD.org](https://openjscad.org).
 It's great, you write code to make 3D objects.
 
-Copy the contents of [cad.js](https://github.com/praeclarum/MarriageClock/blob/master/cad.js) to 
+Copy the contents of [cad.js](https://github.com/praeclarum/MarriageClock/blob/master/cad.js) to OpenJSCAD
+to see the full box.
+
+To print, change `main()` to only be `printBottom()` or `printTop()` to export print STL files.
 
 ## That's a lot of code for just a clock
 
