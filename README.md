@@ -9,7 +9,7 @@ Look no more, the Marriage Clock is here for you.
 
 This thing is a heart-shaped clock that will tell you how many years, months, and days you've been married.
 
-It also always says "H+J" in memory of Heather and James' marriage.
+It also always says "H+J" in honor of Heather and James' marriage.
 
 ## Bill of Materials
 
