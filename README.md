@@ -58,6 +58,12 @@ so long as it has power and the ESP32 doesn't get reset.
 
 It even keeps counting while the ESP32 is asleep.
 
+### Diffing date times
+
+I want to display the number of years and months since a certain date.
+
+C does not include a time diff function that can do this, so I ended up including PHP's timelib. Go PHP!
+
 ### Display the time
 
 The code in [Display.cpp](https://github.com/praeclarum/MarriageClock/blob/master/Display.cpp) draws the time on the OLED screen
