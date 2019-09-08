@@ -1,5 +1,7 @@
 # Marriage Clock
 
+<img src="https://github.com/praeclarum/MarriageClock/raw/master/Images/clock.jpg" width="256" />
+
 Ever wonder how long you've been married?
 Or maybe it's a day before the wedding, and you *still* haven't found a gift.
 
@@ -11,9 +13,12 @@ It also always says "H+J" in memory of Heather and James' marriage.
 
 ## CAD
 
-I designed the heart clock using [OpenJSCAD.org](). It's great, 
+<img src="https://github.com/praeclarum/MarriageClock/raw/master/Images/cad.jpg" width="256" />
 
-Copy the contents of [cad.js]() to 
+I designed the heart clock using [OpenJSCAD.org](https://openjscad.org).
+It's great, you write code to make 3D objects.
+
+Copy the contents of [cad.js](https://github.com/praeclarum/MarriageClock/blob/master/cad.js) to 
 
 ## That's a lot of code for just a clock
 
@@ -22,7 +27,7 @@ Yes it is! The code does these things:
 1. Gets the current time
 2. Stores that in the real time clock so it doesn't forget
 3. Figures out how long it's been since a certain date and time (say, a wedding)
-4. Displays that on it's display
+4. Displays that on its display
 5. Go to sleep for 10 minutes
 6. Go to #3
 
