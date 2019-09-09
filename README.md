@@ -11,6 +11,8 @@ This thing is a heart-shaped clock that will tell you how many years, months, an
 
 It also always says "H+J" in honor of Heather and James' marriage.
 
+Listen to [Merge Conflict 165: IoT Gifts Make the Best Gifts](https://www.mergeconflict.fm/165) for a complete overview of how this project came together.
+
 ## Bill of Materials
 
 1. $19.95 **[Adafruit HUZZAH32](https://www.adafruit.com/product/3405)** I love ESP32s and the Adafruit dev kit one of my favorites because it includes a USB connector and a battery management unit.
