@@ -34,7 +34,7 @@ To print, change `main()` to only be `printBottom()` or `printTop()` to export p
 
 ## That's a lot of code for just a clock
 
-Yes it is! The main code ([MarriageClock.ino](https://github.com/praeclarum/MarriageClock/blob/master/MarriagleClock.ino)) does these things:
+Yes it is! The main code ([MarriageClock.ino](https://github.com/praeclarum/MarriageClock/blob/master/MarriageClock.ino)) does these things:
 
 1. Gets the current time
 2. Stores that in the real time clock so it doesn't forget
